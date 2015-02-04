@@ -1,4 +1,4 @@
-gulp-react-webpack-twig-boilerplate
+Twig Gulp-Bower LibSass Foundation Starterkit
 ==================
 
 Starterkit for building static sites compiled with with Twig.js (Gulp port from PHP Twig) Its got Bower and Libsass Foundation baked in. And it compiles html pages with Pretty urls (so "www.yoursite.com/contact" instead of "www.yoursite.com/contact.html")
