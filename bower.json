@@ -1,0 +1,13 @@
+{
+  "name": "Twig Gulp Bower LibSass Foundation Starterkit",
+  "version": "1.0.0",
+  "authors": [
+    "David van den Bor"
+  ],
+  "description": "Twig Gulp Starterkit with Bower, LibSass Foundation and Gulp Pretty Urls baked in.",
+  "license": "MIT",
+  "homepage": "http://www.davidvandenbor.nl",
+  "devDependencies": {
+    "foundation": "5.5.1"
+  }
+}
